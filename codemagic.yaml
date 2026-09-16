@@ -1,4 +1,4 @@
-workflows:
+sworkflows:
   android-workflow:
     name: Android Build Workflow
     max_build_duration: 60
@@ -16,5 +16,6 @@ workflows:
         
           flutter build apk --release
     artifacts:
-      build/app/outputs/flutter-apk/*.apk
+     build/app/outputs/flutter-apk/*.apk
+      
       
