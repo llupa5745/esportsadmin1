@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "702750806281",
+    "firebase_url": "https://e-sports-a7153-default-rtdb.firebaseio.com",
+    "project_id": "e-sports-a7153",
+    "storage_bucket": "e-sports-a7153.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702750806281:android:4baa494d8aa6eb6176c3d8",
+        "android_client_info": {
+          "package_name": "Com.Esportsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702750806281-ekrovbvbgge3tgmqo3gqja1khsie2lmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdFu87Vv-Hl-UUygmHdloqAeWkKhvuJbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702750806281-ekrovbvbgge3tgmqo3gqja1khsie2lmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702750806281:android:be75c69a206d342f76c3d8",
+        "android_client_info": {
+          "package_name": "Com.esports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702750806281-ekrovbvbgge3tgmqo3gqja1khsie2lmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdFu87Vv-Hl-UUygmHdloqAeWkKhvuJbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702750806281-ekrovbvbgge3tgmqo3gqja1khsie2lmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
